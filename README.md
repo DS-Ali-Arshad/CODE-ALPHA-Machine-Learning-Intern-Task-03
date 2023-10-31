@@ -78,4 +78,4 @@ Enjoy exploring and using the Music Recommendation System!<br>
 If you have any questions or suggestions, please don't hesitate to contact me at ds.aliarshad@gmail.com.
 
 Enjoy Coding!<br>
-Ali Arshad
+Ali Arshad [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Arshad-blue)](https://www.linkedin.com/in/profile-ali-arshad)
